@@ -25,6 +25,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func old(){
         print("Old")
+        print("Develop for conflict")
     }
     
     func newF(){
