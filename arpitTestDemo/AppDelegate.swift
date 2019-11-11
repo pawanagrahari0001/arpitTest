@@ -23,7 +23,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         return true
     }
 
-    func oldMaster(){
+    func oldMasterOld(){
         print("Old")
         print("Develop Master for conflict")
     }
