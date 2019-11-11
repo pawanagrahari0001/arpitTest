@@ -23,6 +23,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         return true
     }
 
+
     func oldMasterPawacsdfsn(){
         print("Oldfasdfas")
         print("Develosadsadasdp Master for conflict")
@@ -32,6 +33,16 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     func newFsadsad(){
         print("dsadsadNew")
         print("dsadsfsfsfsafsafasfas adNew")
+
+    func oldMasterPawanadf(){
+        print("Oldasdf")
+        print("Develop Master for conflictafsda")
+        print("fasdfasd")
+    }
+    
+    func newFfadsf(){
+        print("Newfdasf")
+        print("fasdfaj")
     }
     
     func applicationWillResignActive(_ application: UIApplication) {
