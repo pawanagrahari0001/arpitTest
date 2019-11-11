@@ -23,7 +23,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         return true
     }
 
-    func old(){
+    func oldDevelop(){
         print("Old")
         print("Develop for conflict")
     }
