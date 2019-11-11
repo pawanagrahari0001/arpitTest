@@ -23,13 +23,15 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         return true
     }
 
-    func oldMasterPawan(){
-        print("Old")
-        print("Develop Master for conflict")
+    func oldMasterPawanadf(){
+        print("Oldasdf")
+        print("Develop Master for conflictafsda")
+        print("fasdfasd")
     }
     
-    func newF(){
-        print("New")
+    func newFfadsf(){
+        print("Newfdasf")
+        print("fasdfaj")
     }
     
     func applicationWillResignActive(_ application: UIApplication) {
