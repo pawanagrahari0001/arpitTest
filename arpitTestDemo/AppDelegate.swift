@@ -24,9 +24,11 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     }
 
 
-    func oldMasterPawacdasdasdsdfsn(){
+    func oldMasterPawacdasdasdsdfsnasd(){
         print("Oldfasdfas")
         print("Develosadsadasdp Master for conflict")
+        print("Develosadsadasdp Masdsfsafsaf asdsadsster for conflict")
+        print("Develosadsadasdp Masdsfsafsaf asdsadsster for conflict")
         print("Develosadsadasdp Masdsfsafsaf asdsadsster for conflict")
     }
     
