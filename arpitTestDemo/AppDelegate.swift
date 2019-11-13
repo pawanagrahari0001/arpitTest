@@ -24,8 +24,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     }
 
 
-    func oldMaster(){
-        print("New Test")
+    func oldMasterNew(){
+        print("New Test Vivek")
         print("Develosadsadasdp Masdsfsafsaf asdsadsster for conflict")
         print("Develosadsadasdp Masdsfsafsaf asdsadsster for conflict")
         print("Develosadsadasdp Masdsfsafsaf asdsadsster for conflict")
