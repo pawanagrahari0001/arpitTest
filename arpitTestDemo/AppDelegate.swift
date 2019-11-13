@@ -17,14 +17,14 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         print("Old Feedback")
-        print("Develocscasdasdawdp")
+        print("Develocscsaddasdasdasdasdawdp")
         print("master")
         // Override point for customization after application launch.
         return true
     }
 
 
-    func oldMasterPawacsdfsn(){
+    func oldMasterPawacdasdasdsdfsn(){
         print("Oldfasdfas")
         print("Develosadsadasdp Master for conflict")
         print("Develosadsadasdp Masdsfsafsaf asdsadsster for conflict")
