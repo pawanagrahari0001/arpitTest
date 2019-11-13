@@ -40,7 +40,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         print("fasdfasd")
     }
     
-    func newFfadsf(){
+    func newFfadsfTestadfasdfasd(){
         print("Newfdasf")
         print("fasdfaj")
     }
